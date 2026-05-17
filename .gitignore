@@ -7,14 +7,5 @@ Desktop.ini
 *.psd1
 *.psm1
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.env
-.env
-venv/
-
 # Visual Studio Code
 .vscode/
